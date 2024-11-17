@@ -22,7 +22,7 @@
     "@docusaurus/plugin-sitemap": "2.0.0-alpha.72",
     "@docusaurus/preset-classic": "2.0.0-alpha.72",
     "@docusaurus/theme-classic": "2.0.0-alpha.72",
-    "@docusaurus/theme-live-codeblock": "2.0.0-alpha.72",
+    "@docusaurus/theme-live-codeblock": "3.0.0",
     "@docusaurus/theme-search-algolia": "2.0.0-alpha.72",
     "@docusaurus/types": "2.0.0-alpha.72",
     "@docusaurus/utils": "2.0.0-alpha.72",
